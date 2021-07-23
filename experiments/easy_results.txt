@@ -1,0 +1,7 @@
+[refcocog_umd][val], id[cocog_mrcn_cmr_with_st_batch24_erase_lang_visual22_lr8e-4_weight100.5_from214330-20181106_201752]'s acc is 80.23%
+[refcoco_unc][testA], id[coco_erase_qxy]'s acc is 87.40%
+[refcoco_unc][testB], id[coco_erase_qxy]'s acc is 85.79%
+[refcoco+_unc][testA], id[coco+_erase_qxy]'s acc is 77.05%
+[refcoco+_unc][testB], id[coco+_erase_qxy]'s acc is 69.28%
+[refcocog_umd][val], id[cocog_erase_qxy]'s acc is 80.58%
+[refcocog_umd][test], id[cocog_erase_qxy]'s acc is 79.30%
